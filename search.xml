@@ -4,40 +4,13 @@
   
     
     <entry>
-      <title>test</title>
+      <title>Hello, this is my blog!</title>
       <link href="/2023/07/23/test/"/>
       <url>/2023/07/23/test/</url>
       
-        <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre>]]></content>
+        <content type="html"><![CDATA[<h2 id="First"><a href="#First" class="headerlink" title="First"></a>First</h2><pre class=" language-python"><code class="language-python"><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"I like study!"</span><span class="token punctuation">)</span></code></pre>]]></content>
       
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello,this is my blog</title>
-      <link href="/2023/07/23/hello-this-is-my-blog/"/>
-      <url>/2023/07/23/hello-this-is-my-blog/</url>
-      
-        <content type="html"><![CDATA[<h2 id="Start"><a href="#Start" class="headerlink" title="Start"></a>Start</h2><p>内容信息</p><pre class=" language-python"><code class="language-python"><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"Hello World!"</span><span class="token punctuation">)</span></code></pre><h2 id="Second"><a href="#Second" class="headerlink" title="Second"></a>Second</h2><p>内容信息</p><h2 id="Three"><a href="#Three" class="headerlink" title="Three"></a>Three</h2><p>内容信息</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Markdown </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Tyoora </tag>
-            
-            <tag> Markdown </tag>
-            
-        </tags>
       
     </entry>
     
