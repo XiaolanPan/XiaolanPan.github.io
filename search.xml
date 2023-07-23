@@ -8,7 +8,7 @@
       <link href="/2023/07/23/test/"/>
       <url>/2023/07/23/test/</url>
       
-        <content type="html"><![CDATA[<h2 id="test"><a href="#test" class="headerlink" title="test"></a>test</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre>]]></content>
       
       
       
